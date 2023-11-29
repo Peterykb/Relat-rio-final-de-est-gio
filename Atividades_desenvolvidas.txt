@@ -1,0 +1,8 @@
+Coisas feitas no estágio: 
+- Estudos sobre fundamentos em C#;
+- Estudos sobre typescript com angular;
+- Estudos sobre arquitetura de software;
+- Esutdos sobre herança e polimorfismo;
+- CRUD com angular e dotnet;
+- Estudos sobre metodologia ágil;
+- Início do Projeto LearnHUB;
