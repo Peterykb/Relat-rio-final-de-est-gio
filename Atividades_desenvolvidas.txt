@@ -1,8 +1,21 @@
-Coisas feitas no estágio: 
-- Estudos sobre fundamentos em C#;
-- Estudos sobre typescript com angular;
-- Estudos sobre arquitetura de software;
-- Esutdos sobre herança e polimorfismo;
-- CRUD com angular e dotnet;
-- Estudos sobre metodologia ágil;
-- Início do Projeto LearnHUB;
+Pergunta: Quais são os principais pontos a serem discutidos sobre o governo de Itamar Franco alinhado ao período de redemocratização?
+
+Resposta:
+
+Contexto Histórico:
+Breve contexto sobre a redemocratização após o regime militar.
+
+Ascensão ao Cargo:
+Circunstâncias que levaram Itamar Franco à presidência após o impeachment de Collor.
+
+Plano Real:
+Implementação e impacto do Plano Real na estabilização econômica.
+
+Desafios Econômicos:
+Superando desafios econômicos e negociações com o FMI.
+
+Política Externa:
+Principais eventos e relações internacionais durante o governo Itamar.
+
+Legado e Avaliação:
+Breve análise do legado do governo Itamar e seus desafios.
